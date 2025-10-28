@@ -417,12 +417,11 @@ ls	Lists files in current directory
 
 You have successfully:
 
-Created a secure AWS VPC environment
+--Created a secure AWS VPC environment
+--Configured subnets, IGW, and route tables
+--Launched and connected to an EC2 instance
+--Installed and configured Apache
+--Deployed a colorful insurance website
 
-Configured subnets, IGW, and route tables
-
-Launched and connected to an EC2 instance
-
-Installed and configured Apache
-
-Deployed a colorful insurance website
+Author
+Apurva Kadam | AWS Enthusiast
